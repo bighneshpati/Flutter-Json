@@ -1,0 +1,32 @@
+[
+   {
+       "name":"Bighnesh Kumar Pati",
+       "age":"20",
+       "height":"183",
+       "gender":"Male",
+       "hair_color":"Black"
+   },
+   {
+    "name":"Niti Shah",
+    "age":"20",
+    "height":"170",
+    "gender":"Female",
+    "hai_color":"Brown"
+   },
+   {
+    "name":"Jyoti Jha",
+    "age":"21",
+    "height":"175",
+    "gender":"Female",
+    "hair_color":"White"
+   },
+   {
+    "name":"Bhupesh Pradhan",
+    "age":"20",
+    "height":"178",
+    "gender":"Male",
+    "hair_color":"Black"
+   }
+
+
+]
